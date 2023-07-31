@@ -1,0 +1,10 @@
+
+
+TOKEN='6452476339:AAGgufLv8tcgx3TrCYT2bRx0gYs853W_-YM'
+
+keys={
+    "евро":"EUR",
+    "рубль":"RUB",
+    "доллар":"USD",
+}
+
